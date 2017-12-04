@@ -2,6 +2,7 @@
 A page that does a few language games. Pig Latin, Tutnese, a few others.
 
 Generally, the big box on top is where you put your plain text, and the translation comes out in the bottom. Games are as follows:
+
 Encryption - "Encrypts" the text by adding the place in the character string of the character to it, based on either vowel or consonant, i.e. "A test" becomes "E xayb" (the next vowel after "A" is "E", and it's the first character, going along the consonants by three from "t" gives "x", and so on). The decryption does the opposite.
 
 Pig Latin - Translates a senctence into pig latin. I follow the "-yay" version, i.e., a word that begins with a vowel gets a "yay, rather than just an "ay".
